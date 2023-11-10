@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084276995010",
+    "project_id": "bitcoin-app-4629a",
+    "storage_bucket": "bitcoin-app-4629a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084276995010:android:71c7597df336dc86639c5b",
+        "android_client_info": {
+          "package_name": "com.example.bitcoinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0P1BudIBFqcWI0G0pxcFGLnf3Wj1bhsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
